@@ -1,7 +1,8 @@
 
 #### Link For Demo of the Platform 
 https://drive.google.com/file/d/1hAp02XDCQkeZ2BTQaA62MyvnUfcJbMRb/view?usp=sharing
-
+#### Link for pitching ppt
+https://docs.google.com/presentation/d/1WAkSK6ZbZVl9HhB_JClVB1-59kKn1Ivh/edit?usp=sharing&ouid=113374314116601026143&rtpof=true&sd=true
 
 ![Alt text](<WhatsApp Image 2023-12-11 at 05.55.38_00f90646.jpg>)
 # Zero-Day Future Contracts
